@@ -9,7 +9,7 @@
 - 成立时间：2019-3-15
 - 开发语言：PHP5
 - 运行环境：SCF PHP5.6
-- 项目地址：[GITHUB]()
+- 项目地址：[GITHUB](https://github.com/sdlyfjx/WaferOnSCF)
 - 原项目地址GITHUB：[Wafer 会话服务器](https://github.com/tencentyun/wafer-session-server)
 
 ## 功能说明：
